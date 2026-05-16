@@ -1,0 +1,165 @@
+{
+  "menuItems": {
+    "Pizzas": [
+      {
+        "id": "pizza-1",
+        "name": "Margherita",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A classic Italian favorite featuring a rich tomato base topped with fresh mozzarella cheese and a hint of herbs. Perfectly baked to achieve a crispy crust while maintaining a soft and flavorful center.",
+        "price": 12.99
+      },
+      {
+        "id": "pizza-2",
+        "name": "Pepperoni",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "Loaded with premium pepperoni slices layered over melted cheese and tangy tomato sauce. Each bite delivers a savory and slightly spicy kick, making it a crowd favorite.",
+        "price": 14.99
+      },
+      {
+        "id": "pizza-3",
+        "name": "Quattro Stagioni",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A unique pizza divided into four sections, each representing a different topping combination including mushrooms, olives, ham, and artichokes, offering a variety of flavors in a single dish.",
+        "price": 16.99
+      },
+      {
+        "id": "pizza-4",
+        "name": "BBQ Chicken",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "Grilled chicken pieces tossed in smoky barbecue sauce, combined with melted cheese and a crispy crust. A perfect balance of sweet, smoky, and savory flavors.",
+        "price": 15.99
+      },
+      {
+        "id": "pizza-5",
+        "name": "Veggie Delight",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A colorful medley of fresh vegetables including bell peppers, onions, mushrooms, and olives, layered over a tomato sauce base and topped with melted cheese for a deliciously satisfying vegetarian option.",
+        "price": 13.99
+      },
+      {
+        "id": "pizza-6",
+        "name": "Hawaiian",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A tropical twist on traditional pizza featuring a combination of ham, pineapple chunks, and melted cheese on a tomato sauce base. The sweet and savory flavors create a unique and delicious experience.",
+        "price": 14.99
+      },
+      {
+        "id": "pizza-7",
+        "name": "Meat Lovers",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A carnivore's dream pizza loaded with a variety of meats including pepperoni, sausage, ham, and bacon, all layered over a rich tomato sauce and topped with melted cheese for an indulgent feast.",
+        "price": 17.99
+      },
+      {
+        "id": "pizza-8",
+        "name": "Four Cheese",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A cheese lover's delight featuring a blend of four different cheeses including mozzarella, cheddar, parmesan, and gorgonzola, all melted together on a crispy crust with a tomato sauce base.",
+        "price": 15.99
+      },
+      {
+        "id": "pizza-9",
+        "name": "Mediterranean",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A flavorful pizza inspired by Mediterranean cuisine, topped with ingredients like feta cheese, olives, sun-dried tomatoes, and fresh spinach on a tomato sauce base for a deliciously unique taste.",
+        "price": 16.99
+      },
+      {
+        "id": "pizza-10",
+        "name": "Buffalo Chicken",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "Spicy buffalo chicken pieces tossed in tangy buffalo sauce, layered over melted cheese and a crispy crust. Served with a side of ranch or blue cheese dressing for dipping.",
+        "price": 15.99
+      }
+    ],
+    "Appetizers": [
+      {
+        "id": "app-1",
+        "name": "Garlic Bread",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "Freshly baked bread slices brushed with garlic butter and lightly toasted until golden. Crispy on the outside and soft inside, making it a perfect starter.",
+        "price": 6.99
+      },
+      {
+        "id": "app-2",
+        "name": "Mozzarella Sticks",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "Crispy fried sticks filled with gooey mozzarella cheese, served hot with a side of marinara sauce for dipping.",
+        "price": 8.99
+      },
+      {
+        "id": "app-3",
+        "name": "Buffalo Wings",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "Juicy chicken wings coated in a tangy and spicy buffalo sauce. Served with a cooling dip to balance the heat.",
+        "price": 10.99
+      }
+    ],
+    "Drinks": [
+      {
+        "id": "drink-1",
+        "name": "Coca Cola",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A refreshing carbonated soft drink served chilled, offering a perfect balance of sweetness and fizz to complement your meal.",
+        "price": 2.99
+      },
+      {
+        "id": "drink-2",
+        "name": "Fresh Orange Juice",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "Freshly squeezed orange juice made from ripe oranges, delivering a natural sweetness and a boost of vitamins.",
+        "price": 4.99
+      },
+      {
+        "id": "drink-3",
+        "name": "Iced Tea",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A chilled beverage brewed from premium tea leaves, lightly sweetened and served over ice for a refreshing experience.",
+        "price": 2.49
+      }
+    ],
+    "Desserts": [
+      {
+        "id": "dessert-1",
+        "name": "Tiramisu",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A classic Italian dessert made with layers of coffee-soaked ladyfingers, mascarpone cream, and cocoa powder, delivering a rich and indulgent flavor.",
+        "price": 7.99
+      },
+      {
+        "id": "dessert-2",
+        "name": "Chocolate Brownie",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A dense and fudgy chocolate brownie baked to perfection, offering a rich cocoa flavor and a soft, melt-in-your-mouth texture.",
+        "price": 6.99
+        
+      },
+      {
+        "id": "dessert-3",
+        "name": "Cannoli",
+        "description": "Chicken, Jalepenos, Mushroom",
+        "description2": "The perfect blend of hearty and heat",
+        "description3": "A traditional Italian pastry consisting of crispy shells filled with sweet ricotta cream and often topped with chocolate chips or nuts.",
+        "price": 5.99
+      }
+    ]
+  }
+}
